@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcSharp", "WcSharp\WcSharp.csproj", "{0D939180-B539-4C97-A248-0D18B9331FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcSharp.Test", "WcSharp.Test\WcSharp.Test.csproj", "{A1B12B7C-1AC0-4ADF-9F5E-B6B2AE0C6FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D939180-B539-4C97-A248-0D18B9331FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D939180-B539-4C97-A248-0D18B9331FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D939180-B539-4C97-A248-0D18B9331FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D939180-B539-4C97-A248-0D18B9331FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B12B7C-1AC0-4ADF-9F5E-B6B2AE0C6FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B12B7C-1AC0-4ADF-9F5E-B6B2AE0C6FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B12B7C-1AC0-4ADF-9F5E-B6B2AE0C6FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B12B7C-1AC0-4ADF-9F5E-B6B2AE0C6FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
